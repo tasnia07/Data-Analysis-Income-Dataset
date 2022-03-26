@@ -1,7 +1,9 @@
 # Data-Analysis-Income-Dataset
-This is a lab assignment from Artificial Intelligence course consisting of follwoing tasks:
+This is a lab assignment from Artificial Intelligence course consisting of following tasks:
 
-Perform classification and calculate accuracy using logistic regression (Use sklearn library). Perform necessary pre-processing on the dataset before classification. Use 8:2 train-test split.
+Data Preprocessing: Handle missing values if needed , Encode categorical features if needed, Scale all the values between 0-1 with proper scaling technique, Split the dataset into features and labels. 
+
+Data Analysis: Perform classification and calculate accuracy using logistic regression (Use sklearn library). Perform necessary pre-processing on the dataset before classification. Use 8:2 train-test split.
 
 Perform classification and calculate accuracy using decision tree (Use sklearn library). Perform necessary pre-processing on the dataset before classification. Use 8:2 train-test split.
 
